@@ -1,0 +1,22 @@
+{
+  "name": "template_commerce",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/composition-api": "^0.33.1",
+    "@pinia/nuxt": "^0.2.1",
+    "bootstrap": "^5.3.2",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "pinia": "^2.1.7",
+    "vue": "^3.3.0",
+    "vue-session": "^1.0.0"
+  }
+}
